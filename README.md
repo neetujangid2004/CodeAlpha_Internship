@@ -69,11 +69,11 @@ Enter quantity for AMZN: 10                         <br>
 
 Enter stock symbol (or 'dome' to finish): done      <br>
 
-Stock       Quantity        Price       Investment  <br>
---------------------------------------------------- <br>
-AAPL     **6**  10           $180         $1800     <br>
-TSLA            5            $250         $1250     <br>
-AMZN            10           $140         $1400     <br>
---------------------------------------------------- <br>
+Stock &emsp; Quantity &emsp; Price &emsp; Investment    <br>
+---------------------------------------------------     <br>
+AAPL    &emsp;  10           $180         $1800         <br>
+TSLA            5            $250         $1250         <br>
+AMZN            10           $140         $1400         <br>
+---------------------------------------------------     <br>
 TOTAL                                     $4450
 
