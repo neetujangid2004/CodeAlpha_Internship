@@ -2,17 +2,25 @@
 Intership project showcasing Python programming concepts, problem-solving, and real-world application development.
 
 # 1. Hangman Game Assignment
-The project demonstrates my understanding of Python programming concepts such as loops, conditionals, and string manipulation.
+This is a simple text-based Hangman game build in Python. The player has to guess a randomly chosen word by entering one letter at a time. The game ends when the player either guesses the word correctly or uses all 6 incorrect guesses.
 
--> Goal: 
-Create a simple text-based Hangman game where the player guesses a word one letter at a time.
+> Features :
 
-Simplified Scope:
+●​ 5 predefined words stored in a list. <br>
+●​ Maximum of 6 wrong guesses allowed.
 
-●​ Use a small list of 5 predefined words (no need to use a file or API).
+●​ Displays progress with underscores ( _ ) for unguessed letters.
 
-●​ Limit incorrect guesses to 6.
+●​ Console-based input/output.
 
-●​ Basic console input/output — no graphics or audio.
+> Concepts Used :
 
-Key Concepts Used: random, while loop, if-else, strings, lists.
+●​ random module to select words.
+
+●​ Loops (while) for repeated guessing.
+
+●​ Displays progress with underscores ( _ ) for unguessed letters.
+
+●​ Console-based input/output.
+
+# 2. Stock Portfolio Tracker Assignment
