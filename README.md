@@ -71,7 +71,7 @@ Enter stock symbol (or 'dome' to finish): done      <br>
 
 Stock       Quantity        Price       Investment  <br>
 --------------------------------------------------- <br>
-AAPL            10           $180         $1800     <br>
+AAPL     **6**  10           $180         $1800     <br>
 TSLA            5            $250         $1250     <br>
 AMZN            10           $140         $1400     <br>
 --------------------------------------------------- <br>
