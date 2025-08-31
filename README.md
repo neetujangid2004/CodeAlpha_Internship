@@ -83,9 +83,9 @@ Implements key Python concepts like os, shutil, re, requests, and file handling.
 
 > Features : 
 
-●​  Move Files ->>>>>> automatically move all '.jpg' files from one folder to another.   <br>
-●​  Extract Emails ->> extract all email addresses from a '.txt' file and save them into a new file. <br>
-●​  Web Scraper ->>>>> scrape the title of a fixed webpage and save it locally.  
+●​  Move Files ------- automatically move all '.jpg' files from one folder to another.   <br>
+●​  Extract Emails --- extract all email addresses from a '.txt' file and save them into a new file. <br>
+●​  Web Scraper ------ scrape the title of a fixed webpage and save it locally.  
 
 > Concepts Used :
 
