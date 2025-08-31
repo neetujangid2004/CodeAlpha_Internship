@@ -71,9 +71,9 @@ Enter stock symbol (or 'dome' to finish): done      <br>
 
 Stock &emsp; Quantity &emsp; Price &emsp; Investment            <br>
 ---------------------------------------------------             <br>
-AAPL &ensp;&emsp; 10 &ensp;&emsp; $180 &ensp;&emsp; $1800           <br>
-TSLA &ensp;&emsp; 20  &ensp;&emsp; $250 &ensp;&emsp; $1250           <br>
-AMZN &ensp;&emsp; 10 &ensp;&emsp; $140 &ensp;&emsp; $1400           <br>
+AAPL &emsp; &emsp; 10 &emsp; &emsp; $180 &emsp; &emsp; $1800           <br>
+TSLA &emsp; &emsp; 20  &emsp; &emsp; $250 &emsp; &emsp; $5000           <br>
+AMZN &emsp; &emsp; 10 &emsp; &emsp; $140 &emsp; &emsp; $1400           <br>
 ---------------------------------------------------             <br>
-TOTAL &emsp; &ensp;&emsp; &ensp;&emsp; &ensp;&emsp; $4450
+TOTAL &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; $4450
 
