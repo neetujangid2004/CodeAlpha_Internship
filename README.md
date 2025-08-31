@@ -71,9 +71,32 @@ Enter stock symbol (or 'dome' to finish): done      <br>
 
 Stock &emsp; Quantity &emsp; Price &emsp; Investment            <br>
 ---------------------------------------------------             <br>
-AAPL &emsp; &emsp; 10 &emsp; &emsp; $180 &emsp; &emsp; $1800           <br>
-TSLA &emsp; &emsp; 20  &emsp; &emsp; $250 &emsp; &emsp; $5000           <br>
-AMZN &emsp; &emsp; 10 &emsp; &emsp; $140 &emsp; &emsp; $1400           <br>
+AAPL &emsp; &emsp; 10 &emsp; &emsp; $180 &emsp; &emsp; $1800    <br>
+TSLA &emsp; &emsp; 20  &emsp; &emsp; $250 &emsp; &emsp; $5000   <br>
+AMZN &emsp; &emsp; 10 &emsp; &emsp; $140 &emsp; &emsp; $1400    <br>
 ---------------------------------------------------             <br>
-TOTAL &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; $4450
+TOTAL &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; $4450
 
+# 3. Task Automation with Python Scripts Assignment
+A collection of simple Python automation scripts to perform everyday repetitive tasks such as moving files, extracting emails, and scraping webpage titles.
+Implements key Python concepts like os, shutil, re, requests, and file handling.
+
+> Features : 
+
+●​  Move Files ->>>>>> automatically move all '.jpg' files from one folder to another.   <br>
+●​  Extract Emails ->> extract all email addresses from a '.txt' file and save them into a new file. <br>
+●​  Web Scraper ->>>>> scrape the title of a fixed webpage and save it locally.  
+
+> Concepts Used :
+
+●​  'os' ------- working with directories & files           <br>
+●​  'shutil' --- moving and coping files                    <br>
+●​  're' ------- regular expressions for email extraction   <br>
+●​  'requests' - fetching webpage content                   <br>
+●​  File Handling - reading and writing to files            <br>
+
+> Output
+
+.jpg files will be moved to a new folder.            <br>
+Extracted emails will be saved into emails.txt.      <br>
+Webpage title will be saved into title.txt.
