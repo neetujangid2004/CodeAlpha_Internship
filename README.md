@@ -31,3 +31,49 @@ Enter a letter: z               <br>
 Wrong guess! You have 5 tries left.
 
 # 2. Stock Portfolio Tracker Assignment
+A beginner-friendly Python project that tracks stock investments using hardcoded prices. Users can enter stock names and quantities, calculate the total investment, and optionally save the results to .txt or .csv files. Demonstrates use of dictionaries, loops, arithmetic operations, and file handling in Python.
+
+> Features : 
+
+●​ Predefined stock prices stored in a dictionary.  <br>
+●​ User inputs stock symbols and quantities.        <br>
+●​ Calculates total investment value.               <br>
+●​ Option to save results in:                       <br>
+    - TXT file <br>
+    - CSV file
+
+> Concepts Used :
+
+●​  Python 3                            <br>
+●​  Dictionary                          <br>
+●​  File handling ('txt' and 'csv')     <br>
+
+> Example Gameplay
+
+Welcome to Stock Portfolio Tracker          <br>
+Available stock prices:                     <br>
+AAPL: $180                                  <br>
+TSLA: $250                                  <br>
+GOOGL: $135                                 <br>
+MSFT: $320                                  <br>
+AMZN: $140                                  <br>
+
+Enter stock symbol (or 'dome' to finish): aapl      <br>
+Enter quantity for AAPL: 10                         <br>
+
+Enter stock symbol (or 'dome' to finish): tsla      <br>
+Enter quantity for TSLA: 5                          <br>
+
+Enter stock symbol (or 'dome' to finish): amzn      <br>
+Enter quantity for AMZN: 10                         <br>
+
+Enter stock symbol (or 'dome' to finish): done      <br>
+
+Stock       Quantity        Price       Investment  <br>
+--------------------------------------------------- <br>
+AAPL            10           $180         $1800     <br>
+TSLA            5            $250         $1250     <br>
+AMZN            10           $140         $1400     <br>
+--------------------------------------------------- <br>
+TOTAL                                     $4450
+
