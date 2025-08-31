@@ -1,0 +1,6 @@
+Portfolio Summary : 
+GOOGL: 56 * $135 = $7560
+MSFT: 30 * $320 = $9600
+AMZN: 20 * $140 = $2800
+
+Total Investment Value: $19960
